@@ -14,6 +14,8 @@
 
 [Oracle JFX API Doc: https://docs.oracle.com/javase/8/javafx/api/toc.htm](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
 
+[Chinese Doc: https://www.yiibai.com/javafx](https://www.yiibai.com/javafx)
+
 ### 4. Demo and sample
 [Demo download path: HelloJFX/demo/demo.jar](HelloJFX/demo/demo.jar)
 
